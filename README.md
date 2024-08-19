@@ -1,0 +1,1 @@
+Algo-trading, is a method of executing trades using pre-programmed instructions that account for various factors like price, timing, and volume. These algorithms can rapidly analyze market data and execute orders faster and more efficiently than human traders. 
